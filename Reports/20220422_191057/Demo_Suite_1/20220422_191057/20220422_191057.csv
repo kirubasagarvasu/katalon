@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo_Suite_1,Chrome 100.0.4896.127,,,2022-04-22 19:11:16,2022-04-22 19:14:38,3m - 22.006s,PASSED
+,,,,,,,
+Test Cases/IDP-13 TC_001,Chrome 100.0.4896.127,"Summary: TC_001
+Description: ",jira-integration,2022-04-22 19:11:16,2022-04-22 19:14:38,3m - 21.326s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-22 19:11:17,2022-04-22 19:11:27,9.977s,PASSED
+maximizeWindow(),Chrome 100.0.4896.127,,,2022-04-22 19:11:27,2022-04-22 19:11:28,0.581s,PASSED
+"navigateToUrl(""https://requisitionapp-sandbox.mxapps.io/index.html?profile=Responsive"")",Chrome 100.0.4896.127,,,2022-04-22 19:11:28,2022-04-22 19:11:33,5.382s,PASSED
+"setText(findTestObject(""Object Repository/Page_Mendix - Page/input_Username_100.TaxiRequisition.LoginPag_69ed09""), ""Raj"")",Chrome 100.0.4896.127,,,2022-04-22 19:11:33,2022-04-22 19:12:34,1m - 0.776s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Mendix - Page/input_Password_100.TaxiRequisition.LoginPag_7a5430""), ""7Dxoto1EjKfQbGop/Ov+1g=="")",Chrome 100.0.4896.127,,,2022-04-22 19:12:34,2022-04-22 19:13:04,30.545s,PASSED
+"click(findTestObject(""Object Repository/Page_Mendix - Page/button_Log In""))",Chrome 100.0.4896.127,,,2022-04-22 19:13:04,2022-04-22 19:13:35,30.357s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Mendix - Task Inbox/h1_Taxi Request List""), ""Taxi Request List"")",Chrome 100.0.4896.127,,,2022-04-22 19:13:35,2022-04-22 19:14:06,30.942s,PASSED
+"click(findTestObject(""Object Repository/Page_Mendix - Task Inbox/span_Taxi Request List_glyphicon glyphicon-log-out""))",Chrome 100.0.4896.127,,,2022-04-22 19:14:06,2022-04-22 19:14:36,30.264s,PASSED
+closeBrowser(),Chrome 100.0.4896.127,,,2022-04-22 19:14:36,2022-04-22 19:14:38,1.611s,PASSED

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Taxi Request List_glyphicon glyphicon-log-out</name>
+   <tag></tag>
+   <elementGuidId>71890f5d-c32c-454b-bceb-a195d780430c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mxui_widget_HorizontalScrollContainer_0']/div/div/div/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-log-out</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>69b6da01-ef17-4ca9-9735-f1769dc1afff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-log-out</value>
+      <webElementGuid>6130b893-0a05-4de0-87c6-962fe999e5a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>adf73d58-82f9-4fff-b150-a12a1b03f8dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mxui_widget_HorizontalScrollContainer_0&quot;)/div[@class=&quot;mx-scrollcontainer-left region-sidebar mx-scrollcontainer-toggleable&quot;]/div[@class=&quot;mx-scrollcontainer-wrapper&quot;]/div[@class=&quot;mx-navigationtree mx-name-navigationTree3&quot;]/div[@class=&quot;navbar-inner&quot;]/ul[1]/li[2]/a[@class=&quot;mx-name-navigationTree3-9&quot;]/span[@class=&quot;glyphicon glyphicon-log-out&quot;]</value>
+      <webElementGuid>91d68322-9c12-4b5b-9592-c43ab657199c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mxui_widget_HorizontalScrollContainer_0']/div/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>a6f5f149-1259-468e-a82b-8e7cdcfcb479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>6a70c03e-d6f0-465c-b082-45b8bf7bc15f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
